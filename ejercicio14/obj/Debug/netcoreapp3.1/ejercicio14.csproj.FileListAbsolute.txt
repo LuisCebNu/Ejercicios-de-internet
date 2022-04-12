@@ -1,0 +1,11 @@
+C:\Users\stars\source\repos\ejercicio14\bin\Debug\netcoreapp3.1\ejercicio14.exe
+C:\Users\stars\source\repos\ejercicio14\bin\Debug\netcoreapp3.1\ejercicio14.deps.json
+C:\Users\stars\source\repos\ejercicio14\bin\Debug\netcoreapp3.1\ejercicio14.runtimeconfig.json
+C:\Users\stars\source\repos\ejercicio14\bin\Debug\netcoreapp3.1\ejercicio14.runtimeconfig.dev.json
+C:\Users\stars\source\repos\ejercicio14\bin\Debug\netcoreapp3.1\ejercicio14.dll
+C:\Users\stars\source\repos\ejercicio14\bin\Debug\netcoreapp3.1\ejercicio14.pdb
+C:\Users\stars\source\repos\ejercicio14\obj\Debug\netcoreapp3.1\ejercicio14.csprojAssemblyReference.cache
+C:\Users\stars\source\repos\ejercicio14\obj\Debug\netcoreapp3.1\ejercicio14.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\ejercicio14\obj\Debug\netcoreapp3.1\ejercicio14.AssemblyInfo.cs
+C:\Users\stars\source\repos\ejercicio14\obj\Debug\netcoreapp3.1\ejercicio14.dll
+C:\Users\stars\source\repos\ejercicio14\obj\Debug\netcoreapp3.1\ejercicio14.pdb
